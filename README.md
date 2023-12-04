@@ -4,6 +4,7 @@
 
 AC
 limpa a tela e toda operação feita
+
  =
 Calcula a expressão montada e o resultado dessa é demonstrado no historico.
 
